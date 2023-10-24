@@ -2,7 +2,7 @@
 #include <chrono>
 #include <map>
 #include <vector>
-
+#include <algorithm>
 #include "Headers/Global.hpp"
 #include "Headers/Astar.hpp"
 #include "Headers/GetAdjacentCells.hpp"
